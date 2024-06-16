@@ -12,6 +12,9 @@ Designed an Arduino-based rover that uses ultrasonic sensors to autonomously nav
 4. Battery pack
 5. Wiring and connectors
 
+<img width="562" alt="Screenshot 2024-06-16 at 11 03 55 AM" src="https://github.com/qudsiasultana/icecream-rover/assets/156488419/fc9a71f5-a1db-44bd-accb-1a7936721b72">
+
+
 ## Software Requirements:
 1. Arduino IDE
 2. Custom Arduino script (available in this repository)
